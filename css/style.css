@@ -57,7 +57,7 @@
 }
 
 .transp {
-	opacity: 0.1;
+	opacity: 0.5;
 	height: 300px;
 	width: 300px;
 	-webkit-transition: opacity 1s ease-in-out;
